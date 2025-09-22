@@ -68,8 +68,7 @@ It provides data-driven insights to support strategic decisions, particularly re
 ---
 
 ## 🤖 Machine Learning Model
-![Polynomial Ridge Regression](./images/19_polynomial_ridge.png)  
-*Polynomial Ridge Regression (Degree 4) – R² = 85.16%*
+![Polynomial Ridge Regression](./images/19_polynomial_ridge.png)
 
 ---
 
@@ -79,4 +78,3 @@ It provides data-driven insights to support strategic decisions, particularly re
 - **Techniques**: Data cleaning, exploratory data analysis, geospatial mapping, KPI evaluation, machine learning.  
 
 ---
-
