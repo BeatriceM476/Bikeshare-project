@@ -37,8 +37,8 @@ It aims to provide data-driven insights to support strategic decisions, particul
 ![Modes of Transportation to Work by Ward in Washington DC](./images/16_Transportation_work.png)
 
 ## 🗺️ Interactive Map
-[![Interactive Map Screenshot](./images/map_preview.png)](https://beatricem476.github.io/Bikeshare-project/interactive_map.html)  
-👉 Click on the image or [here](https://beatricem476.github.io/Bikeshare-project/interactive_map.html) to explore the full interactive map.
+[![Interactive Map Screenshot](./images/map_preview.png)](https://beatricem476.github.io/Bikeshare-project/dc_wards_map.html)  
+👉 Click on the image or [here](https://beatricem476.github.io/Bikeshare-project/dc_wards_map.html) to explore the full interactive map.
 
 ## 🛠️ Tools & Methods
 - **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
