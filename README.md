@@ -40,6 +40,10 @@ It aims to provide data-driven insights to support strategic decisions, particul
 [![Interactive Map Screenshot](./images/map_preview.png)](https://beatricem476.github.io/Bikeshare-project/dc_wards_map.html)  
 👉 Click on the image or [here](https://beatricem476.github.io/Bikeshare-project/dc_wards_map.html) to explore the full interactive map.
 
+## 🤖 Machine Learning Model
+![Polynomial Ridge Regression](./images/19_polynomial_ridge.png)  
+*Polynomial Ridge Regression (Degree 4), $R^2 = 85.16\%$*
+
 ## 🛠️ Tools & Methods
 - **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
 - **Visualization**: Tableau, Jupyter Notebook  
