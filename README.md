@@ -42,9 +42,8 @@ It aims to provide data-driven insights to support strategic decisions, particul
 
 ## 🤖 Machine Learning Model
 ![Polynomial Ridge Regression](./images/19_polynomial_ridge.png)  
-*Polynomial Ridge Regression (Degree 4), $R^2 = 85.16\%$*
 
 ## 🛠️ Tools & Methods
 - **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
 - **Visualization**: Tableau, Jupyter Notebook  
-- **Techniques**: Data cleaning, exploratory data analysis, geospatial mapping, KPI evaluation, dashboard design
+- **Techniques**: Data cleaning, exploratory data analysis, geospatial mapping, KPI evaluation, machine learning
